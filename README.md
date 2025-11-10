@@ -1,39 +1,39 @@
-# 💻 MetaHub
+# MetaHub
 
 ![image](https://github.com/VictorBravim/MetaHub/assets/122113588/872b9eeb-e6df-4da2-944c-5c1704bbbab9)
 
-## 🚀 Overview
+## <code>Introdução</code>
 
-MetaHub is a social media application built using React and Firebase. The platform allows users to create personalized profiles, publish content, follow other users, and interact with posts through likes. The application is designed to provide a smooth and interactive user experience, leveraging modern front-end and back-end technologies.
+MetaHub é um projeto de mídia social desenvolvido com React e Firebase. A plataforma permite aos usuários criar perfis personalizados, publicar conteúdo, seguir outros usuários e interagir com postagens por meio de curtidas. O aplicativo foi projetado para praticar integração com backend e banco de dados.
 
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - Node.js
 - Firestore
 - React Router
 - React Icons
 
-## 🔧 Installation
+## <code>Configuração</code>
 
-1. Clone the repository:
+1. Clone o repositório:
 
 ``` 
 git clone https://github.com/VictorBravim/MetaHub.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
 
 ```
 cd MetaHub
 ```
 
-3. Install the dependencies:
+3. Instale as dependências:
 
 ```
 npm install
 ```
 
-## 🛠️ Project Rules
+## <code>Estrutura</code>
 
 - FireStore
 
@@ -75,6 +75,6 @@ service firebase.storage {
 }
 ```
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
